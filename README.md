@@ -28,4 +28,4 @@ Para configurar el proyecto localmente, sigue estos pasos:
 1. Clona el repositorio en tu máquina local:
 
    ```bash
-   git clone 
+   git clone https://github.com/ricardo-torresV/encriptador_texto
